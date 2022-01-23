@@ -9,7 +9,8 @@ Gem::Specification.new do |spec|
   spec.email = ["rodney.woollett@gmail.com"]
 
   spec.summary = "Various view specific methods for applications I use"
-  spec.homepage = "example.com"
+  spec.homepage = "https://rodskandit.com"
+  spec.license = "Nonstandard"
   spec.required_ruby_version = ">= 2.6.0"
 
   # Specify which files should be added to the gem when it is released.
